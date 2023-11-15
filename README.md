@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BIGMOUSSA
+- 👋 Hi, I’m Moussa DIALLO
 - 👀 I’m interested in machine learning, deep learning , Devops
-- 🌱 I’m currently learning python/scala
-- 💞️ I’m looking to collaborate on  artificial intelligence project
+- 🌱 I’m currently a engineer on AI
+- 💞️ I’m looking to collaborate on  Machine learning and artificial intelligence projects
 - 📫 How to reach me : diallomous@gmail.com
 
 <!---
